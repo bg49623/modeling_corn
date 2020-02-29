@@ -5,14 +5,14 @@ Code scripts and data reesources used in the Project Report "An Analysis of Clim
 Project Report will be uploaded as a pdf once the paper is officially submitted. 
 
 # Code
-The following scripts can be found in the "Code" folder. Code was written by Eric Zhang and Brandon Guo.
+The following scripts can be found in the "Code" folder.
 
 temp_sinusoid.py - Sinusoidal fit for temperature forecast
 randomwalk.py - Random Walk simulations for precipitation forecast
 lossAnalysisAnnual.py - Synthesis model for previous two forecasts
 
 # Data
-The following dataseets can be found in the "Data" folder. Data was collected by Parth Asawa, Richard Liu, and Eric Zhang. Pre-processing performed by BG and EZ. 
+The following dataseets can be found in the "Data" folder. 
 
 IndemnityByYear.csv - output loss for crops
 MinnesotaMonthlyPDSI.csv - PDSI monthly reads
