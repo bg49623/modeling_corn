@@ -2,6 +2,10 @@
 
 Code scripts and data reesources used in the Project Report "An Analysis of Climate Change's Impact on Corn in Minnesota". 
 
+Project was conducted and reported by Brandon Guo, Parth Asawa, Eric Zhang, Richard Liu. 
+
+Data processing and analysis is performed by Brandon Guo and Eric Zhang.
+
 Project Report will be uploaded as a pdf once the paper is officially submitted. 
 
 # Code
@@ -15,10 +19,14 @@ lossAnalysisAnnual.py - Synthesis model for previous two forecasts
 The following dataseets can be found in the "Data" folder. 
 
 IndemnityByYear.csv - output loss for crops
+
 MinnesotaMonthlyPDSI.csv - PDSI monthly reads
+
 MinnesotaMonthlyTemperature.csv - monthly temp reads
+
 ProductionByCounty.csv - production values for Minnesotan counties
-UpdatedClimateDataByCounty.csv - yearly data for general metereological statisticss. 
+
+UpdatedClimateDataByCounty.csv - yearly data for general metereological statistics. 
 
 
 
